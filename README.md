@@ -2,6 +2,8 @@
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
+Live Demo:[3-column-preview-card-component](https://aniru-dh21.github.io/3-column-preview-card-component/).
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
